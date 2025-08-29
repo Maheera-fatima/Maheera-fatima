@@ -30,10 +30,10 @@
 *Aerospace Systems, Satellite Technology, Space Robotics, PCB Design, 3D CAD Modeling, MATLAB (Simulink), Microcontrollers, Sensors, Actuators*  
 
 ### Tools & Software  
-*SolidWorks, KiCad, MATLAB/Simulink, Proteus, Arduino, Fusion 360, LaTeX*  
+*SolidWorks, KiCad, MATLAB/Simulink, Arduino, Fusion 360, LaTeX*  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=matlab,arduino,cpp,python,git,linux,solidworks" />
+  <img src="https://skillicons.dev/icons?i=matlab,arduino,cpp,python,git,Kicad,solidworks" />
 </p>
 
 ---
@@ -65,17 +65,17 @@
 ## GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheerafatima&show_icons=true&theme=github_dark&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheerafatima&theme=github-dark-blue" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Maheera-fatima&show_icons=true&theme=github_dark&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheera-fatima&theme=github-dark-blue" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheerafatima&layout=compact&theme=github_dark" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maheerafatima&theme=github_dark&utcOffset=5" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheera-fatima&layout=compact&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maheera-fatima&theme=github_dark&utcOffset=5" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maheerafatima&theme=github_dark" width="96%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maheera-fatima&theme=github_dark" width="96%"/>
 </p>
 
 ---
