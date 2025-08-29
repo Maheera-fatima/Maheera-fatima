@@ -88,8 +88,8 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maheerafatima&color=00A3FF&style=for-the-badge&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Maheera-fatima&color=00A3FF&style=for-the-badge&label=Profile+Views" />
   <br/>
-  <img src="https://img.shields.io/github/followers/maheerafatima?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/maheerafatima?label=Stars&style=social" />
+  <img src="https://img.shields.io/github/followers/Maheera-fatima?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/Maheera-fatima?label=Stars&style=social" />
 </p>
